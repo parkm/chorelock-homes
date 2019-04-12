@@ -1,0 +1,6 @@
+{
+  "plugins": {
+    "webpack": {},
+    "es_modules": {}
+  }
+}

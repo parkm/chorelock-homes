@@ -1,0 +1,38 @@
+{
+  "name": "@chorelock-homes/web",
+  "version": "1.0.0",
+  "description": "The React web interface for the chore tracking app codenamed Chorelock Homes.",
+  "main": "index.js",
+  "scripts": {
+    "build": "neutrino build",
+    "start": "neutrino start",
+    "lint": "neutrino lint",
+    "test": "neutrino test"
+  },
+  "keywords": [],
+  "author": "Spencer Miller",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-hot-loader": "^3.1.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "@neutrinojs/airbnb": "^8.3.0",
+    "@neutrinojs/jest": "^8.3.0",
+    "@neutrinojs/react": "^8.3.0",
+    "neutrino": "^8.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgpt/chorelock-homes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dgpt/chorelock-homes/issues"
+  },
+  "homepage": "https://github.com/dgpt/chorelock-homes#readme"
+}
